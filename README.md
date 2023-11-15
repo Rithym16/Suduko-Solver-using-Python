@@ -1,1 +1,2 @@
 # Suduko-Solver-using-Python
+There are two files attached seprately one is the solving part which contains raw solving of the suduko board using backtracking algorithm on the terminal and the another file which is named as gui.py is the file containing the gui part developed using pygames and in this part of the project the user himself can play the game on a digital suduko board which is made using pygames.
